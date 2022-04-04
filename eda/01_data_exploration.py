@@ -1,0 +1,9 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Load and explore dataset
+df = pd.read_csv('../data/sample.csv')
+print(df.describe())
+df.hist(figsize=(12, 8))
+plt.tight_layout()
+plt.savefig('../output/distributions.png')
