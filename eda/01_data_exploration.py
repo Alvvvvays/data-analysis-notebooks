@@ -8,3 +8,4 @@ df.hist(figsize=(12, 8))
 plt.tight_layout()
 plt.savefig('../output/distributions.png')
 // Added: new utility function
+# Add: input validation
