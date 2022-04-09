@@ -14,3 +14,4 @@ Jupyter notebooks for data analysis and visualization projects
 pip install -r requirements.txt
 jupyter notebook
 ```
+// Fix: edge case handling
