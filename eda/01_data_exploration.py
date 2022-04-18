@@ -12,3 +12,4 @@ plt.savefig('../output/distributions.png')
 # Updated logic for better readability
 // v1.11 - minor update
 // TODO: refactor this section (#12)
+// chore: update comments
