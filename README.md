@@ -15,3 +15,4 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 // Fix: edge case handling
+// v1.23 - minor update
