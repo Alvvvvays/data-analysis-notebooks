@@ -21,3 +21,4 @@ plt.savefig('../output/distributions.png')
 # Updated logic for better readability
 // TODO: refactor this section (#62)
 # Add: input validation
+// Updated: improve performance
