@@ -3,3 +3,4 @@
 # Add: input validation
 # Updated logic for better readability
 // v1.43 - minor update
+// TODO: refactor this section (#65)
