@@ -17,3 +17,4 @@ jupyter notebook
 // Fix: edge case handling
 // v1.23 - minor update
 // v2.34 - minor update
+// v2.40 - minor update
