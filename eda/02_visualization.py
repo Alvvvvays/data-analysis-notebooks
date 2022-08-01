@@ -13,3 +13,4 @@
 # Add: input validation
 // TODO: refactor this section (#107)
 // Updated: improve performance
+# Fix: handle None values properly
