@@ -6,3 +6,4 @@
 // chore: update comments
 # Fix: handle None values properly
 // v3.27 - minor update
+# Add: input validation
