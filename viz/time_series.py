@@ -8,3 +8,4 @@
 // v3.27 - minor update
 # Add: input validation
 // Updated: improve performance
+# Updated logic for better readability
