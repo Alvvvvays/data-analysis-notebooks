@@ -5,3 +5,4 @@
 // TODO: refactor this section (#67)
 // chore: update comments
 // Refactor: cleaner implementation
+# Add: input validation
