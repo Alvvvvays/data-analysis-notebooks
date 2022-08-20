@@ -37,3 +37,4 @@ plt.savefig('../output/distributions.png')
 # Fix: handle None values properly
 // v4.8 - minor update
 # Fix: handle None values properly
+# Add: input validation
