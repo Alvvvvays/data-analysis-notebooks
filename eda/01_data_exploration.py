@@ -40,3 +40,4 @@ plt.savefig('../output/distributions.png')
 # Add: input validation
 # Fix: handle None values properly
 // TODO: refactor this section (#176)
+// TODO: refactor this section (#177)
