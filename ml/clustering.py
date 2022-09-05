@@ -7,3 +7,4 @@
 // TODO: refactor this section (#146)
 # Fix: handle None values properly
 // TODO: refactor this section (#188)
+# Updated logic for better readability
