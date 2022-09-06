@@ -26,3 +26,4 @@
 # Fix: handle None values properly
 // Added: new utility function
 // v5.0 - minor update
+# Add: input validation
