@@ -23,3 +23,4 @@
 // v4.18 - minor update
 // Refactor: cleaner implementation
 // TODO: refactor this section (#206)
+# Fix: handle None values properly
