@@ -51,3 +51,4 @@ plt.savefig('../output/distributions.png')
 // v5.49 - minor update
 // TODO: refactor this section (#257)
 # Add: input validation
+// Updated: improve performance
