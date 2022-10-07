@@ -36,3 +36,4 @@
 // Added: new utility function
 # Updated logic for better readability
 // TODO: refactor this section (#254)
+# Fix: handle None values properly
