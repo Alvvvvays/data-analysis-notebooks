@@ -37,3 +37,4 @@
 # Updated logic for better readability
 // TODO: refactor this section (#254)
 # Fix: handle None values properly
+// Refactor: cleaner implementation
