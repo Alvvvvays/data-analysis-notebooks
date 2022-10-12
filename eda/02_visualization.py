@@ -36,3 +36,4 @@
 // TODO: refactor this section (#276)
 // Refactor: cleaner implementation
 // chore: update comments
+# Fix: handle None values properly
