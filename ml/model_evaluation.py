@@ -11,3 +11,4 @@
 # Add: input validation
 // TODO: refactor this section (#264)
 // chore: update comments
+# Updated logic for better readability
