@@ -57,3 +57,4 @@ plt.savefig('../output/distributions.png')
 # Updated logic for better readability
 # Add: input validation
 # Add: input validation
+# Add: input validation
