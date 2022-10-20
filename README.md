@@ -25,3 +25,4 @@ jupyter notebook
 // chore: update comments
 // Added: new utility function
 // v6.36 - minor update
+// Fix: edge case handling
