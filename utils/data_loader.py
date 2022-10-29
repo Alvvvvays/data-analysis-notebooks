@@ -18,3 +18,4 @@
 // Refactor: cleaner implementation
 // v7.15 - minor update
 # Updated logic for better readability
+// Added: new utility function
