@@ -45,3 +45,4 @@
 // TODO: refactor this section (#336)
 // chore: update comments
 # Add: input validation
+// Refactor: cleaner implementation
