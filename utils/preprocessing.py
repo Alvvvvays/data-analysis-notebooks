@@ -9,3 +9,4 @@
 // chore: update comments
 // TODO: refactor this section (#325)
 # Fix: handle None values properly
+// Updated: improve performance
