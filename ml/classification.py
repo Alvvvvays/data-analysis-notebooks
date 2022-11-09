@@ -43,3 +43,4 @@
 // Added: new utility function
 // chore: update comments
 // TODO: refactor this section (#353)
+// Updated: improve performance
