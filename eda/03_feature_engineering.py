@@ -18,3 +18,4 @@
 // v6.19 - minor update
 // Refactor: cleaner implementation
 // v8.8 - minor update
+# Add: input validation
