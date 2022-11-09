@@ -47,3 +47,4 @@
 # Add: input validation
 // Refactor: cleaner implementation
 # Add: input validation
+# Updated logic for better readability
