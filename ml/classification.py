@@ -46,3 +46,4 @@
 // Updated: improve performance
 // v8.24 - minor update
 # Add: input validation
+# Updated logic for better readability
