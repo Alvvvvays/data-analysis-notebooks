@@ -49,3 +49,4 @@
 # Fix: handle None values properly
 // v8.33 - minor update
 // v9.0 - minor update
+# Add: input validation
