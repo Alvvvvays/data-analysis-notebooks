@@ -54,3 +54,4 @@
 // Updated: improve performance
 // chore: update comments
 // v9.3 - minor update
+// Added: new utility function
