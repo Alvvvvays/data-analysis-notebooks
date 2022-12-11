@@ -25,3 +25,4 @@
 // v8.20 - minor update
 // v8.28 - minor update
 // Fix: edge case handling
+// Added: new utility function
