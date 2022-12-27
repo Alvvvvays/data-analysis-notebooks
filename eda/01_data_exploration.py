@@ -77,3 +77,4 @@ plt.savefig('../output/distributions.png')
 // Fix: edge case handling
 // Refactor: cleaner implementation
 // Added: new utility function
+# Fix: handle None values properly
