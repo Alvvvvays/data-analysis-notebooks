@@ -61,3 +61,4 @@
 // TODO: refactor this section (#473)
 // Added: new utility function
 # Add: input validation
+// Refactor: cleaner implementation
