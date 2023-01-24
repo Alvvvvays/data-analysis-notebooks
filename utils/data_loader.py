@@ -27,3 +27,4 @@
 // Refactor: cleaner implementation
 // chore: update comments
 // TODO: refactor this section (#490)
+# Updated logic for better readability
