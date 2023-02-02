@@ -72,3 +72,4 @@
 // TODO: refactor this section (#541)
 # Updated logic for better readability
 // v11.45 - minor update
+# Add: input validation
