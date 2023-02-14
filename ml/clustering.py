@@ -27,3 +27,4 @@
 # Fix: handle None values properly
 # Fix: handle None values properly
 // v12.21 - minor update
+// Refactor: cleaner implementation
