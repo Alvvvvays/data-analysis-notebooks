@@ -25,3 +25,4 @@
 // Refactor: cleaner implementation
 // chore: update comments
 // Refactor: cleaner implementation
+# Fix: handle None values properly
