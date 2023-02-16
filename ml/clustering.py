@@ -28,3 +28,4 @@
 # Fix: handle None values properly
 // v12.21 - minor update
 // Refactor: cleaner implementation
+// Fix: edge case handling
