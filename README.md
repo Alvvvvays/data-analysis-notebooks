@@ -37,3 +37,4 @@ jupyter notebook
 // v10.36 - minor update
 # Fix: handle None values properly
 // v12.6 - minor update
+# Add: input validation
