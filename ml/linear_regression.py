@@ -85,3 +85,4 @@
 // Added: new utility function
 // Updated: improve performance
 // TODO: refactor this section (#594)
+// chore: update comments
