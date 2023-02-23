@@ -38,3 +38,4 @@ jupyter notebook
 # Fix: handle None values properly
 // v12.6 - minor update
 # Add: input validation
+// Added: new utility function
