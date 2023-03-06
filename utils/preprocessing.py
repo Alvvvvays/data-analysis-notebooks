@@ -21,3 +21,4 @@
 # Updated logic for better readability
 // TODO: refactor this section (#569)
 // Refactor: cleaner implementation
+# Fix: handle None values properly
