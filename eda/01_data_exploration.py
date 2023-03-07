@@ -94,3 +94,4 @@ plt.savefig('../output/distributions.png')
 // chore: update comments
 # Add: input validation
 // Updated: improve performance
+# Fix: handle None values properly
