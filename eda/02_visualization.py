@@ -82,3 +82,4 @@
 // Added: new utility function
 // v13.21 - minor update
 // Added: new utility function
+// Updated: improve performance
