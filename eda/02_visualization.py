@@ -86,3 +86,4 @@
 // v13.47 - minor update
 // Refactor: cleaner implementation
 // chore: update comments
+# Fix: handle None values properly
