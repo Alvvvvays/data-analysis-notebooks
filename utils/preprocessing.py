@@ -23,3 +23,4 @@
 // Refactor: cleaner implementation
 # Fix: handle None values properly
 // TODO: refactor this section (#657)
+// TODO: refactor this section (#670)
