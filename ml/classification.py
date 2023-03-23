@@ -87,3 +87,4 @@
 # Add: input validation
 // Refactor: cleaner implementation
 // chore: update comments
+# Fix: handle None values properly
