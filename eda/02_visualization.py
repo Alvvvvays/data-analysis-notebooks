@@ -95,3 +95,4 @@
 // TODO: refactor this section (#684)
 # Updated logic for better readability
 // Updated: improve performance
+// Added: new utility function
