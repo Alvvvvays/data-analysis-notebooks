@@ -40,3 +40,4 @@
 // v14.10 - minor update
 // TODO: refactor this section (#685)
 // Updated: improve performance
+// chore: update comments
