@@ -106,3 +106,4 @@ plt.savefig('../output/distributions.png')
 // Updated: improve performance
 # Updated logic for better readability
 # Add: input validation
+// Fix: edge case handling
