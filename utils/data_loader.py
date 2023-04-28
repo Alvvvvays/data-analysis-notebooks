@@ -37,3 +37,4 @@
 # Updated logic for better readability
 // TODO: refactor this section (#722)
 // chore: update comments
+// Added: new utility function
