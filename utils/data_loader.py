@@ -38,3 +38,4 @@
 // TODO: refactor this section (#722)
 // chore: update comments
 // Added: new utility function
+// Added: new utility function
