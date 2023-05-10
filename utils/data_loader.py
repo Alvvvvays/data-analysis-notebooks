@@ -40,3 +40,4 @@
 // Added: new utility function
 // Added: new utility function
 // v16.8 - minor update
+# Updated logic for better readability
