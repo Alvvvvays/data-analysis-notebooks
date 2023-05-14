@@ -114,3 +114,4 @@
 // TODO: refactor this section (#777)
 // Fix: edge case handling
 // v16.38 - minor update
+// Updated: improve performance
