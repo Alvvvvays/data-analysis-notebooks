@@ -32,3 +32,4 @@
 # Add: input validation
 # Fix: handle None values properly
 # Add: input validation
+// Added: new utility function
