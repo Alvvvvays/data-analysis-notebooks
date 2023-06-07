@@ -111,3 +111,4 @@
 // Fix: edge case handling
 // TODO: refactor this section (#821)
 // Updated: improve performance
+# Fix: handle None values properly
