@@ -43,3 +43,4 @@
 # Updated logic for better readability
 // v16.34 - minor update
 // TODO: refactor this section (#794)
+// Updated: improve performance
