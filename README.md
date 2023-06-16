@@ -54,3 +54,4 @@ jupyter notebook
 // v16.16 - minor update
 // Updated: improve performance
 // chore: update comments
+# Fix: handle None values properly
