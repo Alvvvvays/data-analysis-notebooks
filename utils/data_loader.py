@@ -47,3 +47,4 @@
 # Fix: handle None values properly
 // TODO: refactor this section (#890)
 // chore: update comments
+// Added: new utility function
