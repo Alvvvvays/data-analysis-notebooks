@@ -123,3 +123,4 @@
 // v18.35 - minor update
 # Updated logic for better readability
 // v18.49 - minor update
+# Fix: handle None values properly
