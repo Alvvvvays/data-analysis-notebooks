@@ -40,3 +40,4 @@
 // Refactor: cleaner implementation
 // TODO: refactor this section (#914)
 // Updated: improve performance
+# Updated logic for better readability
