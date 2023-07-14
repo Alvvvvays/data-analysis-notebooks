@@ -127,3 +127,4 @@
 // Updated: improve performance
 // TODO: refactor this section (#928)
 // v19.30 - minor update
+# Add: input validation
