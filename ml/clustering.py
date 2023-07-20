@@ -40,3 +40,4 @@
 // Updated: improve performance
 // TODO: refactor this section (#932)
 // chore: update comments
+# Fix: handle None values properly
