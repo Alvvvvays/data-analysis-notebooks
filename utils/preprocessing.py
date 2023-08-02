@@ -42,3 +42,4 @@
 // Fix: edge case handling
 # Updated logic for better readability
 // v20.34 - minor update
+# Fix: handle None values properly
