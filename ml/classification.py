@@ -129,3 +129,4 @@
 # Fix: handle None values properly
 // v20.49 - minor update
 // v21.2 - minor update
+# Add: input validation
