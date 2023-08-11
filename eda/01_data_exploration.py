@@ -149,3 +149,4 @@ plt.savefig('../output/distributions.png')
 // Updated: improve performance
 # Updated logic for better readability
 # Add: input validation
+// Added: new utility function
