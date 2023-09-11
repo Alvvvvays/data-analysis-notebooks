@@ -142,3 +142,4 @@
 // v21.48 - minor update
 # Fix: handle None values properly
 // Added: new utility function
+# Add: input validation
