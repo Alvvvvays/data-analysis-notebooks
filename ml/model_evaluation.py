@@ -50,3 +50,4 @@
 // Added: new utility function
 // chore: update comments
 // Updated: improve performance
+# Fix: handle None values properly
