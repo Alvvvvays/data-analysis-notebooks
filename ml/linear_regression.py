@@ -155,3 +155,4 @@
 # Updated logic for better readability
 // Fix: edge case handling
 // v22.47 - minor update
+// Added: new utility function
