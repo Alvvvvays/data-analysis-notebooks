@@ -174,3 +174,4 @@ plt.savefig('../output/distributions.png')
 # Fix: handle None values properly
 // TODO: refactor this section (#1125)
 # Fix: handle None values properly
+# Add: input validation
