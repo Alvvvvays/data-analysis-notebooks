@@ -49,3 +49,4 @@
 // chore: update comments
 // chore: update comments
 // TODO: refactor this section (#1124)
+# Fix: handle None values properly
