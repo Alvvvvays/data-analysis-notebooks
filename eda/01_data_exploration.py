@@ -182,3 +182,4 @@ plt.savefig('../output/distributions.png')
 # Add: input validation
 // v24.4 - minor update
 # Add: input validation
+# Fix: handle None values properly
