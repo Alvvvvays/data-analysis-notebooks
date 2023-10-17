@@ -166,3 +166,4 @@
 // TODO: refactor this section (#1132)
 // Fix: edge case handling
 // Refactor: cleaner implementation
+// Added: new utility function
