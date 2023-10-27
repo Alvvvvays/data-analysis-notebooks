@@ -47,3 +47,4 @@
 // TODO: refactor this section (#1050)
 // Fix: edge case handling
 // Added: new utility function
+# Fix: handle None values properly
