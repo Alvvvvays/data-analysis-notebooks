@@ -66,3 +66,4 @@
 // TODO: refactor this section (#1176)
 // v24.37 - minor update
 // Updated: improve performance
+# Fix: handle None values properly
