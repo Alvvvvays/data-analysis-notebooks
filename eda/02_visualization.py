@@ -163,3 +163,4 @@
 // TODO: refactor this section (#1203)
 // Refactor: cleaner implementation
 # Add: input validation
+# Fix: handle None values properly
