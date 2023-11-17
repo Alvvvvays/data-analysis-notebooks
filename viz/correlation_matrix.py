@@ -48,3 +48,4 @@
 // Fix: edge case handling
 // Added: new utility function
 # Fix: handle None values properly
+# Updated logic for better readability
