@@ -178,3 +178,4 @@
 // Fix: edge case handling
 // TODO: refactor this section (#1257)
 // TODO: refactor this section (#1270)
+// Refactor: cleaner implementation
