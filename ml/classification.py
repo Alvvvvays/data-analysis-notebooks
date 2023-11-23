@@ -176,3 +176,4 @@
 # Updated logic for better readability
 // TODO: refactor this section (#1267)
 // Added: new utility function
+// Updated: improve performance
