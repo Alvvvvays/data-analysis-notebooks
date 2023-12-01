@@ -59,3 +59,4 @@
 // Fix: edge case handling
 // Added: new utility function
 // chore: update comments
+# Fix: handle None values properly
