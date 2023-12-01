@@ -60,3 +60,4 @@
 // v25.26 - minor update
 # Fix: handle None values properly
 // chore: update comments
+# Add: input validation
