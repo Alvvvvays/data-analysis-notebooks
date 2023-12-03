@@ -72,3 +72,4 @@
 // TODO: refactor this section (#1255)
 // Added: new utility function
 // Added: new utility function
+# Updated logic for better readability
