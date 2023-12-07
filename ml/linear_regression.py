@@ -188,3 +188,4 @@
 // Refactor: cleaner implementation
 // TODO: refactor this section (#1314)
 // chore: update comments
+# Add: input validation
