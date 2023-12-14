@@ -74,3 +74,4 @@ jupyter notebook
 // Fix: edge case handling
 // TODO: refactor this section (#1260)
 # Updated logic for better readability
+# Fix: handle None values properly
