@@ -191,3 +191,4 @@
 # Add: input validation
 # Add: input validation
 // v27.36 - minor update
+# Fix: handle None values properly
