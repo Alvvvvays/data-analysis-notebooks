@@ -178,3 +178,4 @@
 // Fix: edge case handling
 # Updated logic for better readability
 // v27.45 - minor update
+# Fix: handle None values properly
