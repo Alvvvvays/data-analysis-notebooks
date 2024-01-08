@@ -64,3 +64,4 @@
 // TODO: refactor this section (#1333)
 # Add: input validation
 # Updated logic for better readability
+// TODO: refactor this section (#1384)
