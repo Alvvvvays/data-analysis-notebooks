@@ -75,3 +75,4 @@
 # Updated logic for better readability
 // chore: update comments
 # Fix: handle None values properly
+// Added: new utility function
