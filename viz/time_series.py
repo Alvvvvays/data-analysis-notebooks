@@ -62,3 +62,4 @@
 # Add: input validation
 // chore: update comments
 // TODO: refactor this section (#1285)
+# Fix: handle None values properly
