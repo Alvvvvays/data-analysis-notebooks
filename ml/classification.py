@@ -198,3 +198,4 @@
 // Refactor: cleaner implementation
 // TODO: refactor this section (#1398)
 // Updated: improve performance
+// Added: new utility function
