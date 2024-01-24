@@ -64,3 +64,4 @@
 // TODO: refactor this section (#1285)
 # Fix: handle None values properly
 // v29.8 - minor update
+# Add: input validation
