@@ -65,3 +65,4 @@
 # Fix: handle None values properly
 // v29.8 - minor update
 # Add: input validation
+// Added: new utility function
