@@ -200,3 +200,4 @@
 // Updated: improve performance
 # Add: input validation
 // chore: update comments
+# Fix: handle None values properly
