@@ -198,3 +198,4 @@
 # Fix: handle None values properly
 // chore: update comments
 // Updated: improve performance
+# Add: input validation
