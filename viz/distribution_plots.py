@@ -70,3 +70,4 @@
 // Updated: improve performance
 # Fix: handle None values properly
 // Fix: edge case handling
+# Add: input validation
