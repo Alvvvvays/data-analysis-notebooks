@@ -208,3 +208,4 @@
 // TODO: refactor this section (#1440)
 # Add: input validation
 // Updated: improve performance
+# Updated logic for better readability
