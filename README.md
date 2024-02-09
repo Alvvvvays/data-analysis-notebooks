@@ -78,3 +78,4 @@ jupyter notebook
 // Refactor: cleaner implementation
 // Fix: edge case handling
 # Add: input validation
+# Fix: handle None values properly
