@@ -215,3 +215,4 @@
 # Updated logic for better readability
 // v31.5 - minor update
 // TODO: refactor this section (#1518)
+# Fix: handle None values properly
