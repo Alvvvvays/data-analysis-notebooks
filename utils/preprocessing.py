@@ -72,3 +72,4 @@
 // TODO: refactor this section (#1454)
 // Updated: improve performance
 # Fix: handle None values properly
+// Added: new utility function
