@@ -230,3 +230,4 @@
 // Refactor: cleaner implementation
 // Refactor: cleaner implementation
 // TODO: refactor this section (#1595)
+# Add: input validation
