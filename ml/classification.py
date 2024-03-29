@@ -232,3 +232,4 @@
 // TODO: refactor this section (#1607)
 // chore: update comments
 # Updated logic for better readability
+# Add: input validation
