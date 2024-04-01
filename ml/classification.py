@@ -236,3 +236,4 @@
 # Add: input validation
 // Added: new utility function
 // chore: update comments
+# Fix: handle None values properly
