@@ -67,3 +67,4 @@
 // Added: new utility function
 // Refactor: cleaner implementation
 // chore: update comments
+# Add: input validation
