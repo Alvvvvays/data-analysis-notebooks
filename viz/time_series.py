@@ -86,3 +86,4 @@
 // chore: update comments
 // TODO: refactor this section (#1642)
 // Refactor: cleaner implementation
+# Fix: handle None values properly
