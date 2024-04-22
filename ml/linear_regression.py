@@ -235,3 +235,4 @@
 // v33.41 - minor update
 // Fix: edge case handling
 // Refactor: cleaner implementation
+# Fix: handle None values properly
