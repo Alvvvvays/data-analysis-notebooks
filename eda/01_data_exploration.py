@@ -246,3 +246,4 @@ plt.savefig('../output/distributions.png')
 // Added: new utility function
 // v34.30 - minor update
 // chore: update comments
+# Add: input validation
