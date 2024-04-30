@@ -83,3 +83,4 @@
 # Add: input validation
 // Fix: edge case handling
 // v34.40 - minor update
+# Fix: handle None values properly
