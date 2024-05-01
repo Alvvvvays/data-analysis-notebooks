@@ -243,3 +243,4 @@
 # Fix: handle None values properly
 // TODO: refactor this section (#1697)
 // v34.48 - minor update
+// Added: new utility function
