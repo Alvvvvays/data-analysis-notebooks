@@ -239,3 +239,4 @@
 # Fix: handle None values properly
 // TODO: refactor this section (#1717)
 # Fix: handle None values properly
+// chore: update comments
