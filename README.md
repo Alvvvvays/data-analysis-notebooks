@@ -92,3 +92,4 @@ jupyter notebook
 # Add: input validation
 # Add: input validation
 // Fix: edge case handling
+# Fix: handle None values properly
