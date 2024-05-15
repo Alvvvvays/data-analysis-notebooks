@@ -72,3 +72,4 @@
 // Updated: improve performance
 # Updated logic for better readability
 // Updated: improve performance
+# Fix: handle None values properly
