@@ -262,3 +262,4 @@ plt.savefig('../output/distributions.png')
 // Refactor: cleaner implementation
 // chore: update comments
 # Fix: handle None values properly
+# Updated logic for better readability
