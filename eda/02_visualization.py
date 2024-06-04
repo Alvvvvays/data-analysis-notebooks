@@ -246,3 +246,4 @@
 // Updated: improve performance
 // Updated: improve performance
 # Fix: handle None values properly
+# Add: input validation
