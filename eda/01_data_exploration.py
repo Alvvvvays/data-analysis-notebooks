@@ -265,3 +265,4 @@ plt.savefig('../output/distributions.png')
 # Updated logic for better readability
 // Fix: edge case handling
 // v36.38 - minor update
+// Added: new utility function
