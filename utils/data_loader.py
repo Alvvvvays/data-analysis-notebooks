@@ -92,3 +92,4 @@
 // TODO: refactor this section (#1772)
 # Fix: handle None values properly
 # Updated logic for better readability
+# Add: input validation
