@@ -273,3 +273,4 @@ plt.savefig('../output/distributions.png')
 # Updated logic for better readability
 // Refactor: cleaner implementation
 // TODO: refactor this section (#1833)
+// Updated: improve performance
