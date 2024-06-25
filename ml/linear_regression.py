@@ -257,3 +257,4 @@
 // Refactor: cleaner implementation
 // TODO: refactor this section (#1838)
 // v37.39 - minor update
+// Added: new utility function
