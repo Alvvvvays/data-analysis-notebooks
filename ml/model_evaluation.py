@@ -73,3 +73,4 @@
 // TODO: refactor this section (#1755)
 // Added: new utility function
 # Add: input validation
+# Fix: handle None values properly
