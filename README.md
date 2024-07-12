@@ -97,3 +97,4 @@ jupyter notebook
 // v37.21 - minor update
 # Add: input validation
 // Fix: edge case handling
+# Fix: handle None values properly
