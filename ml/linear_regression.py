@@ -274,3 +274,4 @@
 // Refactor: cleaner implementation
 // chore: update comments
 // Fix: edge case handling
+// Added: new utility function
