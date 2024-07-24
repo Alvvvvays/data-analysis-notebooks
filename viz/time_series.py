@@ -98,3 +98,4 @@
 // Added: new utility function
 # Add: input validation
 // TODO: refactor this section (#1906)
+# Fix: handle None values properly
