@@ -100,3 +100,4 @@
 // TODO: refactor this section (#1906)
 # Fix: handle None values properly
 // v39.19 - minor update
+# Add: input validation
