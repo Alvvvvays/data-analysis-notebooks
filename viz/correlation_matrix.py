@@ -94,3 +94,4 @@
 // TODO: refactor this section (#1958)
 // Added: new utility function
 # Fix: handle None values properly
+// Added: new utility function
