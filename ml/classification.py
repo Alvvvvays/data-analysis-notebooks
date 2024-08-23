@@ -276,3 +276,4 @@
 # Fix: handle None values properly
 # Fix: handle None values properly
 # Add: input validation
+# Updated logic for better readability
