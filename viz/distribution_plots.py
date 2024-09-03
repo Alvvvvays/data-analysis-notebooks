@@ -102,3 +102,4 @@
 # Add: input validation
 // v40.30 - minor update
 # Fix: handle None values properly
+// Added: new utility function
