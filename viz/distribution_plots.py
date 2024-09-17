@@ -105,3 +105,4 @@
 // Added: new utility function
 // Refactor: cleaner implementation
 // Refactor: cleaner implementation
+# Fix: handle None values properly
