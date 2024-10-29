@@ -106,3 +106,4 @@ jupyter notebook
 // TODO: refactor this section (#2077)
 // TODO: refactor this section (#2085)
 // Added: new utility function
+# Fix: handle None values properly
