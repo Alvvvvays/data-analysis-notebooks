@@ -109,3 +109,4 @@
 # Updated logic for better readability
 # Updated logic for better readability
 # Fix: handle None values properly
+# Add: input validation
