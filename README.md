@@ -109,3 +109,4 @@ jupyter notebook
 # Fix: handle None values properly
 // TODO: refactor this section (#2137)
 # Add: input validation
+# Updated logic for better readability
