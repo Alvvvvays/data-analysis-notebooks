@@ -312,3 +312,4 @@
 // Added: new utility function
 // chore: update comments
 // v44.27 - minor update
+# Fix: handle None values properly
