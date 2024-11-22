@@ -330,3 +330,4 @@ plt.savefig('../output/distributions.png')
 # Updated logic for better readability
 // Added: new utility function
 // chore: update comments
+# Fix: handle None values properly
