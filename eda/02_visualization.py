@@ -297,3 +297,4 @@
 # Fix: handle None values properly
 // Refactor: cleaner implementation
 // Added: new utility function
+# Updated logic for better readability
