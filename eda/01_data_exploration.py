@@ -335,3 +335,4 @@ plt.savefig('../output/distributions.png')
 // Updated: improve performance
 // Refactor: cleaner implementation
 // Added: new utility function
+# Fix: handle None values properly
