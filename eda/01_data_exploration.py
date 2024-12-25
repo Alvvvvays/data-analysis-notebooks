@@ -341,3 +341,4 @@ plt.savefig('../output/distributions.png')
 // Fix: edge case handling
 // v46.0 - minor update
 // chore: update comments
+# Fix: handle None values properly
