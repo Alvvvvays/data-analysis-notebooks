@@ -345,3 +345,4 @@ plt.savefig('../output/distributions.png')
 // Added: new utility function
 // TODO: refactor this section (#2278)
 # Updated logic for better readability
+# Add: input validation
