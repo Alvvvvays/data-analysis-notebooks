@@ -120,3 +120,4 @@
 # Updated logic for better readability
 // chore: update comments
 // v47.24 - minor update
+# Fix: handle None values properly
