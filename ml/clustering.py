@@ -102,3 +102,4 @@
 // Fix: edge case handling
 // TODO: refactor this section (#2293)
 // v47.11 - minor update
+// Added: new utility function
