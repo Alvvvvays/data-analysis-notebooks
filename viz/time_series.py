@@ -123,3 +123,4 @@
 # Fix: handle None values properly
 // Added: new utility function
 // v49.7 - minor update
+// Fix: edge case handling
