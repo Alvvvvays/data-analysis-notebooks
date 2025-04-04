@@ -348,3 +348,4 @@
 // TODO: refactor this section (#2428)
 // chore: update comments
 # Updated logic for better readability
+// Added: new utility function
