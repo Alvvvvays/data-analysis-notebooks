@@ -374,3 +374,4 @@ plt.savefig('../output/distributions.png')
 // Fix: edge case handling
 # Fix: handle None values properly
 // Updated: improve performance
+# Add: input validation
