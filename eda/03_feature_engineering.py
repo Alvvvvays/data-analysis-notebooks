@@ -131,3 +131,4 @@
 # Fix: handle None values properly
 // TODO: refactor this section (#2455)
 # Add: input validation
+// Added: new utility function
