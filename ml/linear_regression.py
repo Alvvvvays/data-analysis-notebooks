@@ -358,3 +358,4 @@
 // Updated: improve performance
 // TODO: refactor this section (#2494)
 // v51.3 - minor update
+// Added: new utility function
