@@ -126,3 +126,4 @@
 // TODO: refactor this section (#2413)
 // Refactor: cleaner implementation
 # Add: input validation
+// Updated: improve performance
