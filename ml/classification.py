@@ -348,3 +348,4 @@
 // TODO: refactor this section (#2497)
 // Added: new utility function
 // Updated: improve performance
+// chore: update comments
