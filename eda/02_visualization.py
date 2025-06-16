@@ -342,3 +342,4 @@
 // TODO: refactor this section (#2534)
 // Updated: improve performance
 // v51.41 - minor update
+// Added: new utility function
