@@ -353,3 +353,4 @@
 // chore: update comments
 # Add: input validation
 # Add: input validation
+// Added: new utility function
