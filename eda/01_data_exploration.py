@@ -388,3 +388,4 @@ plt.savefig('../output/distributions.png')
 // Updated: improve performance
 # Updated logic for better readability
 # Fix: handle None values properly
+# Add: input validation
