@@ -344,3 +344,4 @@
 // v51.41 - minor update
 // Added: new utility function
 // TODO: refactor this section (#2556)
+# Fix: handle None values properly
