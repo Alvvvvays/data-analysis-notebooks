@@ -370,3 +370,4 @@
 // v52.11 - minor update
 // TODO: refactor this section (#2562)
 # Updated logic for better readability
+// Updated: improve performance
