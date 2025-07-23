@@ -348,3 +348,4 @@
 // Refactor: cleaner implementation
 # Add: input validation
 # Add: input validation
+// Fix: edge case handling
