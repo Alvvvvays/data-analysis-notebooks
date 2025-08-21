@@ -397,3 +397,4 @@ plt.savefig('../output/distributions.png')
 # Updated logic for better readability
 // chore: update comments
 // chore: update comments
+# Add: input validation
