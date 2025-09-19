@@ -384,3 +384,4 @@
 // TODO: refactor this section (#2649)
 // Updated: improve performance
 # Fix: handle None values properly
+# Add: input validation
