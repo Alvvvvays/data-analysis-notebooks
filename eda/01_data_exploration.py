@@ -401,3 +401,4 @@ plt.savefig('../output/distributions.png')
 // TODO: refactor this section (#2637)
 // Added: new utility function
 // Refactor: cleaner implementation
+# Fix: handle None values properly
