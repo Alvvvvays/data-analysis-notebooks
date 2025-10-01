@@ -139,3 +139,4 @@
 // TODO: refactor this section (#2598)
 // Added: new utility function
 # Add: input validation
+# Updated logic for better readability
