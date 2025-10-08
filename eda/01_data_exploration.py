@@ -402,3 +402,4 @@ plt.savefig('../output/distributions.png')
 // Added: new utility function
 // Refactor: cleaner implementation
 # Fix: handle None values properly
+# Add: input validation
