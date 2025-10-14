@@ -406,3 +406,4 @@ plt.savefig('../output/distributions.png')
 // chore: update comments
 // v54.44 - minor update
 # Updated logic for better readability
+# Fix: handle None values properly
