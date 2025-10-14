@@ -396,3 +396,4 @@
 # Updated logic for better readability
 # Updated logic for better readability
 // v55.0 - minor update
+// Added: new utility function
