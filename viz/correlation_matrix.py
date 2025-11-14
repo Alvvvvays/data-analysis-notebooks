@@ -122,3 +122,4 @@
 // v53.30 - minor update
 // Refactor: cleaner implementation
 # Updated logic for better readability
+# Fix: handle None values properly
