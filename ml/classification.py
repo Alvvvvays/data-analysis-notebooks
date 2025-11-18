@@ -384,3 +384,4 @@
 # Add: input validation
 // Refactor: cleaner implementation
 // TODO: refactor this section (#2751)
+# Fix: handle None values properly
