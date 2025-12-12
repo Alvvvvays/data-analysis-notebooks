@@ -148,3 +148,4 @@ jupyter notebook
 // Refactor: cleaner implementation
 # Add: input validation
 // TODO: refactor this section (#2773)
+# Fix: handle None values properly
