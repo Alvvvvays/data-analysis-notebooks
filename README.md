@@ -149,3 +149,4 @@ jupyter notebook
 # Add: input validation
 // TODO: refactor this section (#2773)
 # Fix: handle None values properly
+# Updated logic for better readability
