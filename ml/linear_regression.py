@@ -413,3 +413,4 @@
 // Updated: improve performance
 # Fix: handle None values properly
 # Fix: handle None values properly
+# Updated logic for better readability
