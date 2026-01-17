@@ -385,3 +385,4 @@
 // Added: new utility function
 // chore: update comments
 // Added: new utility function
+// Updated: improve performance
