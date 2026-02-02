@@ -125,3 +125,4 @@
 # Updated logic for better readability
 // Updated: improve performance
 # Add: input validation
+// Added: new utility function
