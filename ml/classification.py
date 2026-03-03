@@ -396,3 +396,4 @@
 // chore: update comments
 // Added: new utility function
 // TODO: refactor this section (#2855)
+// Fix: edge case handling
